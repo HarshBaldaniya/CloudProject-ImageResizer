@@ -1,10 +1,4 @@
 const firebaseConfig = {
-  // apiKey: "AIzaSyDUPIIn108VKdHc0ZOj-dCNVdCzLN4RSHw",
-  // authDomain: "nscodeuploadtask.firebaseapp.com",
-  // projectId: "nscodeuploadtask",
-  // storageBucket: "nscodeuploadtask.appspot.com",
-  // messagingSenderId: "434113318323",
-  // appId: "1:434113318323:web:6c4a33fdddf1fbf5ff0fc6"
   apiKey: "AIzaSyCl2GXzjbfY1hPJp583kB7dcESpcr0QhfM",
   authDomain: "image-reducer-e3c11.firebaseapp.com",
   projectId: "image-reducer-e3c11",

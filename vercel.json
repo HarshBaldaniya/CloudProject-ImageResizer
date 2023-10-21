@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/old/(.*)",
+        "destination": "https://oldd.vercel.app//$1"
+      }
+    ]
+  }
+  
